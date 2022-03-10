@@ -9,7 +9,7 @@ pages << {
       'offset': 0,
       'pageSize': 32,
       'countryCode': 'ID'
-    }"
+    }",
     vars: {
       category: "Food in Jogja"
     }
